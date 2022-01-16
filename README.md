@@ -1,5 +1,5 @@
 # Web-Crawler
-Explore the NET!
+Explore the Internet!
 
 
 ## Programming Languages & IDE
